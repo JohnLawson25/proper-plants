@@ -1,0 +1,8 @@
+.cart-item{
+    display: grid;
+}
+
+figure{
+    height: 100px;
+    width: 100px
+}

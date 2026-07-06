@@ -1,0 +1,16 @@
+
+.plants ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20ch, 1fr));
+}
+
+.item{
+    display: grid;
+    padding: 1rem;
+    border: 1px solid blue;
+}
+
+.plant-figure{
+    font-size: 5rem;
+    text-align: center;
+}
